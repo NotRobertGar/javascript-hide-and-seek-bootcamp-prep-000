@@ -3,6 +3,4 @@ function getFirstSelector(test) {
 function nestedTarget(){
   var nested = document.queryslector('#nested .target');
   return nested
-
   }
-}
